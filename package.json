@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@google-cloud/vision": "^4.0.2",
+    "@tensorflow/tfjs-node": "^4.13.0",
+    "axios": "^1.6.1",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "nsfwjs": "^2.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.53.0"
+  }
+}
